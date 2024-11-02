@@ -1,0 +1,22 @@
+{
+    "greetings": [
+        "Hello! How can I assist you today?",
+        "Hi there! How can I help?",
+        "Hey! What’s on your mind?"
+    ],
+    "farewells": [
+        "Goodbye! Have a great day!",
+        "See you later!",
+        "Take care!"
+    ],
+    "how_are_you": [
+        "I'm just a program, but thanks for asking!",
+        "I'm here to help you!",
+        "Feeling ready to assist you!"
+    ],
+    "fun_fact": [
+        "Did you know? The Eiffel Tower can be 15 cm taller during hot days.",
+        "Here’s a fun fact: Honey never spoils. Archaeologists have found pots of honey in ancient tombs that are over 3,000 years old!",
+        "Did you know? Octopuses have three hearts!"
+    ]
+}
